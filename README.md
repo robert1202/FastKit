@@ -1,7 +1,7 @@
 FastKit
 =======
 
-Make  coding more convenient and  quickly,also reduce the amount of code.
+Make ios and objective-c coding more convenient and  quickly,also reduce the amount of code.
 
 
 
